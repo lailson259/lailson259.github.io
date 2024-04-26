@@ -1,0 +1,22 @@
+body{
+    background-image:url(background.jpg) ;
+    background-size: cover;
+    text-align: center;
+    line-height: 50px;
+    
+}
+input{
+    background-color: rgba(124, 187, 22, 0.849);
+    font-family:sans-serif ;
+}
+label{
+    font-family: sans-serif;
+    
+    
+}
+a{
+    background-color: green;
+    color: black;
+    border: an inset
+    display:inline-block ;
+    
